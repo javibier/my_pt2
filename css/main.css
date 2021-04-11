@@ -65,10 +65,7 @@ video {
   vertical-align: middle;
 }
 
-video {
-  width: 100%;
-  height: auto;
-}
+
 
 /*
  * Remove default fieldset styles.
@@ -92,8 +89,9 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-img {
-  
+video {
+  width: 100%;
+  height: auto;
 }
 
 /* ==========================================================================
