@@ -96,7 +96,7 @@ header, footer {
 }
 
 header {
-  margin: 0 5% 0 5%;
+  width: 100%;
 }
 
 header .header-wrapper {
@@ -110,6 +110,7 @@ header .header-wrapper {
 .header-wrapper img {
   width: 30%;
   height: 30%;
+  margin-left: 1em;
 }
 
 /* header figure {
@@ -253,13 +254,18 @@ header .header-wrapper img {
 
 @media only screen and (min-width: 1000px) {
 
+header {
+  position: fixed;
+  background-color: white;
+}
+
 header .header-wrapper {
   font-size: 2em;
 }  
 
 header .header-wrapper img {
-  width: 15%; 
-  height: 15%;
+  width: 12%; 
+  height: 12%;
 }
 
 }
