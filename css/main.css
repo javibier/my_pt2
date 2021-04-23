@@ -122,12 +122,11 @@ header .header-wrapper {
 
 .header-wrapper nav {
   display: flex;
-  /* align-items: center; */
   flex-flow: row wrap;
-  font-weight: 700;
   height: auto;
   float: right;
   margin-right: 100;
+  font-size: .60em;
 }
 
 .header-wrapper nav ul {
@@ -241,7 +240,22 @@ video {
   /* Style adjustments for viewports that meet the condition */
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 700px) {
+
+header .header-wrapper {
+  font-size: 1.5em;
+}
+
+header .header-wrapper img {
+  width: 25%; 
+  height: 25%;
+}
+
+@media only screen and (min-width: 1000px) {
+
+header .header-wrapper {
+  font-size: 2em;
+}  
 
 header .header-wrapper img {
   width: 15%; 
