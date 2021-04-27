@@ -107,7 +107,7 @@ header img {
 }
 
 header nav {
-  display: block;
+  display: fixed;
   flex-flow: row wrap;
   height: auto;
   float: right;
@@ -275,8 +275,7 @@ header {
 }  
 
 header img {
-  width: 12%; 
-  height: 12%;
+  width: 12%;
 }
 
 }
