@@ -90,23 +90,21 @@ textarea {
    ========================================================================== */
 
 /*-------------Base Header - Footer Styles ----------------------------------*/
-
 header, footer {
 
 }
 
-header {
+.topnav {
   width: 100%;
   
 }
 
-header img {
+.topnav img {
   width: 30%;
   height: 30%;
   margin-left: 1em;
 }
-
-header nav {
+.topnav nav {
   display: fixed;
   flex-flow: row wrap;
   height: auto;
@@ -115,15 +113,13 @@ header nav {
   font-size: .60em;
   
 }
-
-header nav ul {
+.topnav nav ul {
   justify-content: space-around;
   width: 100%;
   padding-left: 0px;
   flex-direction: column;
 }
-
-header nav ul li {
+.topnav nav ul li {
   font-size: 1.125em;
 }
 
@@ -226,55 +222,49 @@ video {
 }
 
 @media only screen and (min-width: 500px) {
-
-header {
+.topnav {
   font-size: 1.5em;
 }
-
-header img {
+.topnav img {
   width: 30%; 
   height: 30%;
 }
 
 @media only screen and (min-width: 700px) {
-
-header {
+.topnav {
   font-size: 1.5em;
 }
 
-header img {
+.topnav img {
   width: 22%; 
   height: 22%;
 }
 
 @media only screen and (min-width: 1000px) {
-
-header {
+.topnav {
   position: fixed;
   background-color: white;
 }
 
-header {
+.topnav {
   font-size: 2em;
-}  
+}
 
-header img {
+.topnav img {
   width: 20%; 
   height: 20%;
 }
 
 @media only screen and (min-width: 1300px) {
-
-header {
+.topnav {
   position: fixed;
   background-color: white;
 }
-
-header {
+.topnav {
   font-size: 2em;
-}  
-
-header img {
+}
+ 
+.topnav img {
   width: 12%;
 }
 
