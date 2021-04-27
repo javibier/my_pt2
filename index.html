@@ -75,6 +75,17 @@
     ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
   </script>
   <script src="https://www.google-analytics.com/analytics.js" async></script>
+  <script>
+    window.onscroll = function() {
+    var currentScrollPos = window.pageYOffset;
+       if (prevScrollpos > currentScrollPos) {
+        document.getElementById("header").style.top = "0";
+    }  else {
+        document.getElementById("header").style.top = "-50px";
+    }
+        prevScrollpos = currentScrollPos;
+    }
+  </script>
 </body>
 
 </html>

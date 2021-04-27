@@ -97,6 +97,10 @@ header, footer {
 
 header {
   width: 100%;
+  
+}
+
+header .header-wrapper {
 }
 
 .header-wrapper img {
@@ -112,7 +116,7 @@ header {
   float: right;
   margin-right: 3em;
   font-size: .60em;
-
+  
 }
 
 .header-wrapper nav ul {
