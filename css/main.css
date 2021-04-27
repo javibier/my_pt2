@@ -99,27 +99,11 @@ header {
   width: 100%;
 }
 
-header .header-wrapper {
-  /* display: flex;
-  justify-content: center;
-  float: left;
-  align-items: center;
-  flex-flow: row wrap; */
-}
-
 .header-wrapper img {
   width: 30%;
   height: 30%;
   margin-left: 1em;
 }
-
-/* header figure {
-  width: 60%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-flow: row wrap;
-} */
 
 .header-wrapper nav {
   display: flex;
@@ -136,7 +120,6 @@ header .header-wrapper {
   width: 100%;
   padding-left: 0px;
   flex-direction: column;
-  /* align-items: center; */
 }
 
 header nav ul li {
