@@ -100,16 +100,13 @@ header {
   
 }
 
-header .header-wrapper {
-}
-
-.header-wrapper img {
+header img {
   width: 30%;
   height: 30%;
   margin-left: 1em;
 }
 
-.header-wrapper nav {
+header nav {
   display: block;
   flex-flow: row wrap;
   height: auto;
@@ -119,7 +116,7 @@ header .header-wrapper {
   
 }
 
-.header-wrapper nav ul {
+header nav ul {
   justify-content: space-around;
   width: 100%;
   padding-left: 0px;
@@ -230,22 +227,22 @@ video {
 
 @media only screen and (min-width: 500px) {
 
-header .header-wrapper {
+header {
   font-size: 1.5em;
 }
 
-header .header-wrapper img {
+header img {
   width: 30%; 
   height: 30%;
 }
 
 @media only screen and (min-width: 700px) {
 
-header .header-wrapper {
+header {
   font-size: 1.5em;
 }
 
-header .header-wrapper img {
+header img {
   width: 22%; 
   height: 22%;
 }
@@ -257,11 +254,11 @@ header {
   background-color: white;
 }
 
-header .header-wrapper {
+header {
   font-size: 2em;
 }  
 
-header .header-wrapper img {
+header img {
   width: 20%; 
   height: 20%;
 }
@@ -273,11 +270,11 @@ header {
   background-color: white;
 }
 
-header .header-wrapper {
+header {
   font-size: 2em;
 }  
 
-header .header-wrapper img {
+header img {
   width: 12%; 
   height: 12%;
 }
