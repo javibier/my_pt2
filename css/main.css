@@ -106,16 +106,16 @@ header {
 }
 
 .header-wrapper nav {
-  display: flex;
+  display: block;
   flex-flow: row wrap;
   height: auto;
   float: right;
   margin-right: 3em;
   font-size: .60em;
+
 }
 
 .header-wrapper nav ul {
-  display: flex;
   justify-content: space-around;
   width: 100%;
   padding-left: 0px;
