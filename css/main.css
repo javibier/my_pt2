@@ -94,32 +94,37 @@ header, footer {
 
 }
 
-.topnav {
+#topnav {
   width: 100%;
-  
+  position: fixed; /* Make it stick/fixed */
+  top: 0; /* Stay on top */
+  width: 100%; /* Full width */
+  transition: top 0.3s;
 }
 
-.topnav img {
+#topnav img {
   width: 30%;
   height: 30%;
   margin-left: 1em;
 }
-.topnav nav {
+
+#topnav nav {
   display: fixed;
   flex-flow: row wrap;
   height: auto;
   float: right;
   margin-right: 3em;
-  font-size: .60em;
-  
+  font-size: .60em; 
 }
-.topnav nav ul {
+
+#topnav nav ul {
   justify-content: space-around;
   width: 100%;
   padding-left: 0px;
   flex-direction: column;
 }
-.topnav nav ul li {
+
+#topnav nav ul li {
   font-size: 1.125em;
 }
 
@@ -222,49 +227,51 @@ video {
 }
 
 @media only screen and (min-width: 500px) {
-.topnav {
+#topnav {
   font-size: 1.5em;
 }
-.topnav img {
+
+#topnav img {
   width: 30%; 
   height: 30%;
 }
 
 @media only screen and (min-width: 700px) {
-.topnav {
+#topnav {
   font-size: 1.5em;
 }
 
-.topnav img {
+#topnav img {
   width: 22%; 
   height: 22%;
 }
 
 @media only screen and (min-width: 1000px) {
-.topnav {
+#topnav {
   position: fixed;
   background-color: white;
 }
 
-.topnav {
+#topnav {
   font-size: 2em;
 }
 
-.topnav img {
+#topnav img {
   width: 20%; 
   height: 20%;
 }
 
 @media only screen and (min-width: 1300px) {
-.topnav {
+#topnav {
   position: fixed;
   background-color: white;
 }
-.topnav {
+
+#topnav {
   font-size: 2em;
 }
- 
-.topnav img {
+
+#topnav img {
   width: 12%;
 }
 
