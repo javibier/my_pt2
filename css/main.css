@@ -105,8 +105,7 @@ header, footer {
 #topnav img {
   width: 30%;
   height: 30%;
-  margin-left: 1em;
-  
+  margin-left: 1em; 
 }
 
 #topnav nav {
@@ -116,10 +115,9 @@ header, footer {
   float: right;
   margin-right: 3em;
   font-size: .60em;
-
 }
 
-#topnav nav ul {
+#topnav nav a {
   justify-content: space-around;
   width: 100%;
   padding-left: 0px;
