@@ -98,7 +98,6 @@ header, footer {
   width: 100%;
   position: fixed; /* Make it stick/fixed */
   top: 0; /* Stay on top */
-  width: 100%; /* Full width */
   transition: top 0.3s;
 }
 
@@ -116,12 +115,6 @@ header, footer {
 
 #topnav nav a {
   justify-content: space-around;
-  padding-left: 0px;
-  flex-direction: column;
-}
-
-#topnav nav ul li {
-  font-size: 1.125em;
 }
 
 
@@ -246,11 +239,6 @@ video {
 }
 
 @media only screen and (min-width: 1000px) {
-  
-#topnav {
-  position: fixed;
-  background-color: white;
-}
 
 #topnav {
   font-size: 2em;
@@ -263,11 +251,6 @@ video {
 }
 
 @media only screen and (min-width: 1300px) {
-
-#topnav {
-  position: fixed;
-  background-color: white;
-}
 
 #topnav {
   font-size: 2em;
