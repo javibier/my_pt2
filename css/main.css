@@ -109,9 +109,6 @@ header, footer {
 }
 
 #topnav nav {
-  display: fixed;
-  flex-flow: row wrap;
-  height: auto;
   float: right;
   margin-right: 3em;
   font-size: .60em;
@@ -119,7 +116,6 @@ header, footer {
 
 #topnav nav a {
   justify-content: space-around;
-  width: 100%;
   padding-left: 0px;
   flex-direction: column;
 }
@@ -227,6 +223,7 @@ video {
 }
 
 @media only screen and (min-width: 500px) {
+
 #topnav {
   font-size: 1.5em;
 }
@@ -234,6 +231,7 @@ video {
 #topnav img {
   width: 30%; 
   height: 30%;
+}
 }
 
 @media only screen and (min-width: 700px) {
@@ -245,8 +243,10 @@ video {
   width: 22%; 
   height: 22%;
 }
+}
 
 @media only screen and (min-width: 1000px) {
+  
 #topnav {
   position: fixed;
   background-color: white;
@@ -260,8 +260,10 @@ video {
   width: 20%; 
   height: 20%;
 }
+}
 
 @media only screen and (min-width: 1300px) {
+
 #topnav {
   position: fixed;
   background-color: white;
