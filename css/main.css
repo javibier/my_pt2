@@ -106,6 +106,7 @@ header, footer {
   width: 30%;
   height: 30%;
   margin-left: 1em;
+  
 }
 
 #topnav nav {
@@ -114,7 +115,8 @@ header, footer {
   height: auto;
   float: right;
   margin-right: 3em;
-  font-size: .60em; 
+  font-size: .60em;
+
 }
 
 #topnav nav ul {
