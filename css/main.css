@@ -95,6 +95,7 @@ header, footer {
 }
 
 #topnav {
+  background-color: white;
   width: 100%;
   position: fixed; /* Make it stick/fixed */
   top: 0; /* Stay on top */
@@ -343,4 +344,3 @@ video {
     page-break-after: avoid;
   }
 }
-
