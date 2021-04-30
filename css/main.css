@@ -124,25 +124,37 @@ video {
   height: auto;
 }
 
-.copyright {
+
+footer {
+  box-sizing: border-box;
+}
+
+.col-4 {
+  width: 33%;
+}
+
+.col-12 {
+  width: 100%;}  
+
+#copyright {
+  display: flex;
   float: left;
   text-align: left;
-  margin-left: 1em;
-  width: 25%;
 }
 
-.social {
+#social {
+  display: flex;
   text-align: center;
-  width: 50%;
 }
 
 
-.javibier {
+#javibier {
+  display: flex;
   float: right;
   text-align: right;
-  margin-right: 1em;
-  width: 25%;
 }
+
+
 
 /* ==========================================================================
    Helper classes
