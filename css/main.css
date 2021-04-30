@@ -134,12 +134,17 @@ footer {
 }
 
 .col-12 {
-  width: 100%;}  
+  width: 100%;}
+
+#copyright, #social, #javibier {
+  padding: 0 0 0 0;
+  position: absolute;
+}
 
 #copyright {
-  display: flex;
   float: left;
   text-align: left;
+  
 }
 
 #social {
@@ -149,7 +154,6 @@ footer {
 
 
 #javibier {
-  display: flex;
   float: right;
   text-align: right;
 }
