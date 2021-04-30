@@ -124,9 +124,15 @@ video {
   height: auto;
 }
 
+.copyright {
+  float: left;
+  margin-left: 1em;
+}
+
 
 .javibier {
   float: right;
+  margin-right: 1em;
 }
 
 /* ==========================================================================
