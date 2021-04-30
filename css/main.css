@@ -126,13 +126,22 @@ video {
 
 .copyright {
   float: left;
+  text-align: left;
   margin-left: 1em;
+  width: 25%;
+}
+
+.social {
+  text-align: center;
+  width: 50%;
 }
 
 
 .javibier {
   float: right;
+  text-align: right;
   margin-right: 1em;
+  width: 25%;
 }
 
 /* ==========================================================================
