@@ -109,13 +109,25 @@ header, footer {
 
 #topnav nav {
   float: right;
-  margin-right: 3em;
-  font-size: .60em;
+  margin: 2em 1em 0 0;
+  font-size: .50em;
+  display: inline;
+  width: 45%;
 }
 
-#topnav nav a {
-  justify-content: space-around;
+#topnav ul {
+  padding: 0em;
+  list-style-type: none;
 }
+
+#topnav li {
+  display: inline;
+}
+
+#topnav li {
+  padding: 8px 8px;
+}
+
 
 
 video {
