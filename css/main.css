@@ -98,8 +98,7 @@ header, footer {
   background-color: white;
   width: 100%;
   position: fixed; /* Make it stick/fixed */
-  top: 0; /* Stay on top */
-  transition: top 0.3s;
+  top: 0;
 }
 
 #topnav img {
