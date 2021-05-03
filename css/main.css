@@ -97,7 +97,6 @@ header, footer {
 #topnav {
   background-color: white;
   width: 100%;
-  /*position: fixed; /* Make it stick/fixed */
   top: 0;
 }
 
@@ -109,8 +108,7 @@ header, footer {
 
 #topnav nav {
   float: right;
-  margin: 2em .5em 0 0;
-  font-size: .50em;
+  font-size: .60em;
 }
 
 #topnav ul {
@@ -118,10 +116,7 @@ header, footer {
   list-style-type: none;
 }
 
-
-
 #topnav li {
-  padding: 8px 8px;
 }
 
 
@@ -309,6 +304,7 @@ footer {
 
 #topnav li {
   display: inline;
+  padding: 0 1em 0 1em;
 }
 
 #topnav img {
