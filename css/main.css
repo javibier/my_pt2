@@ -109,7 +109,7 @@ header, footer {
 
 #topnav nav {
   float: right;
-  margin: 2em 1em 0 0;
+  margin: 2em .5em 0 0;
   font-size: .50em;
   display: inline;
   width: 45%;
