@@ -111,8 +111,6 @@ header, footer {
   float: right;
   margin: 2em .5em 0 0;
   font-size: .50em;
-  display: inline;
-  width: 45%;
 }
 
 #topnav ul {
@@ -120,9 +118,7 @@ header, footer {
   list-style-type: none;
 }
 
-#topnav li {
-  display: inline;
-}
+
 
 #topnav li {
   padding: 8px 8px;
@@ -302,6 +298,17 @@ footer {
 
 #topnav {
   font-size: 2em;
+}
+
+#topnav nav {
+  float: right;
+  margin-top: 2.5em;
+  display: inline;
+  width: 45%;
+}
+
+#topnav li {
+  display: inline;
 }
 
 #topnav img {
