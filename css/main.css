@@ -140,12 +140,6 @@ footer {
   box-sizing: border-box;
 }
 
-.col-4 {
-  width: 33%;
-}
-
-.col-12 {
-  width: 100%;}
 
 #copyright, #social, #javibier {
   padding: 0 0 0 0;
@@ -154,17 +148,18 @@ footer {
 
 .copyright {
   float: left;
-  
+  width: 30%;
 }
 
 .social {
-  display: flex;
   text-align: center;
+  width: 30%;
 }
 
 
 .javibier {
   float: right;
+  width: 30%;
 }
 
 
