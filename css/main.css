@@ -143,6 +143,17 @@ video {
   height: auto;
 }
 
+.services {
+  float: left;
+  width: 49.5%;
+  text-align: center;
+}
+
+.mainsecrow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 footer {
   box-sizing: border-box;
