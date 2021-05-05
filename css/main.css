@@ -143,6 +143,10 @@ video {
   height: auto;
 }
 
+.servicehead {
+  text-align: center;
+}
+
 .services {
   float: left;
   width: 49.5%;
