@@ -148,7 +148,14 @@ footer {
 
 .copyright {
   float: left;
-  width: 15%;
+  width: 33.33%;
+  text-align: center;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .social {
