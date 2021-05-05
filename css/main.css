@@ -152,20 +152,10 @@ footer {
   text-align: center;
 }
 
-.row:after {
+.footerrow:after {
   content: "";
   display: table;
   clear: both;
-}
-
-.social {
-  text-align: center;
-}
-
-
-.javibier {
-  float: right;
-  width: 15%;
 }
 
 
