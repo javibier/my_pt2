@@ -121,6 +121,11 @@ header, footer {
 
 .welcome {
   text-align: center;
+  
+}
+
+.welcome ul{
+  list-style-type: none;
 }
 
 
