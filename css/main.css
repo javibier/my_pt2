@@ -151,6 +151,11 @@ video {
   float: left;
   width: 49.5%;
   text-align: center;
+  margin: 10em 0 10em 0;
+}
+
+.services ul {
+  list-style-type: none
 }
 
 .mainsecrow:after {
