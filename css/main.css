@@ -128,7 +128,15 @@ header, footer {
   list-style-type: none;
 }
 
+.ptpic {
+  text-align: center;
+}
 
+.ptpic img {
+  width: 30%;
+  height: 35%;
+  margin: 10em 0 10em 0;
+}
 
 video {
   width: 100%;
