@@ -152,21 +152,19 @@ footer {
   position: absolute;
 }
 
-#copyright {
+.copyright {
   float: left;
-  text-align: left;
   
 }
 
-#social {
+.social {
   display: flex;
   text-align: center;
 }
 
 
-#javibier {
+.javibier {
   float: right;
-  text-align: right;
 }
 
 
