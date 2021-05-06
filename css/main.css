@@ -124,18 +124,14 @@ header, footer {
   
 }
 
-.row2 {
-  height: 2em;
-  line-height: 2em;
-  vertical-align: middle;
-}
 
-.welcomemain {
+.welcomemain1, .welcomemain2, .welcomemain3 {
   float: left;
   width: 33.33%;
   text-align: center;
   font-size: 2em;
-  margin: 2em 0 2em 0; 
+  height: 200px;
+  line-height: 200px;
 }
 
 .row2:after {
@@ -143,6 +139,13 @@ header, footer {
   display: table;
   clear: both;
 }
+
+
+.welcomemain1 {
+  background-color: lightblue;
+}
+
+
 .welcome ul{
   list-style-type: none;
 }
