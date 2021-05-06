@@ -95,7 +95,7 @@ header, footer {
 }
 
 #topnav {
-  background-color: transparent;
+ 
   width: 100%;
   top: 0;
 }
@@ -124,15 +124,15 @@ header, footer {
   
 }
 
+
 .welcomemain {
   float: left;
   width: 33.33%;
-  height: 30%;
-  
+  height: 50%;
+  line-height: 50%;
   text-align: center;
 
   font-size: 2em;
-  margin: auto;
 }
 
 .welcome ul{
@@ -146,7 +146,7 @@ header, footer {
 .ptpic img {
   width: 30%;
   height: 35%;
-  margin: 10em 0 10em 0;
+  margin: 5em 0 5em 0;
 }
 
 video {
