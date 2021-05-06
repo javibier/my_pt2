@@ -129,7 +129,8 @@ header, footer {
   width: 33.33%;
   text-align: center;
   font-size: 2em;
-  margin-top: 2em;
+  margin: auto;
+  padding: 2em;
 }
 
 .welcome ul{
