@@ -124,17 +124,25 @@ header, footer {
   
 }
 
+.row {
+  height: 20em;
+}
 
 .welcomemain {
   float: left;
   width: 33.33%;
-  height: 50%;
-  line-height: 50%;
+ 
   text-align: center;
-
+  
   font-size: 2em;
+  margin: 2em 0 2em 0;
 }
 
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 .welcome ul{
   list-style-type: none;
 }
