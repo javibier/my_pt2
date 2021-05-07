@@ -222,7 +222,7 @@ video {
 }
 
 .faqmainrow {
-  height: 6em;
+  height: 5em;
   line-height: 3em;
   text-align: center;
   margin: 3em 0 3em 0;
@@ -235,6 +235,23 @@ video {
 }
 
 .faqmainrow h2, p {
+  margin: 0 0 0 0;
+}
+
+.mainrowabout {
+  height: 22em;
+  line-height: 3em;
+  text-align: center;
+  margin: 3em 0 3em 0;
+}
+
+.mainrowabout:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.mainrowabout h1, h2, h3, p {
   margin: 0 0 0 0;
 }
 
