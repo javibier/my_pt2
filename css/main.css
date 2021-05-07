@@ -166,23 +166,25 @@ header, footer {
 
 .row3 {
   margin: 5em 0 5em 0;
+  height: 100%;
 }
 
 .ptpic img {
   width: 30%;
-  height: 35%;
   
 }
 
 .ptimg4 {
-    position: relative;
-    top: 0;
-    left: 0;
+  position: relative;
+  top: 0;
+  left: 0;
 }
+
 .ptimg5 {
-    position: absolute;
-    top: 40%;
-    left: 40%;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+
 }
 
 video {
