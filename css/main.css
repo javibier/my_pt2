@@ -94,6 +94,11 @@ header, footer {
 
 }
 
+a {
+  color: black;
+  text-decoration: none;
+}
+
 #topnav {
  
   width: 100%;
@@ -137,7 +142,6 @@ header, footer {
   display: table;
   clear: both;
 }
-
 
 .welcomemain1 {
   background-color: #00bfff;
@@ -239,7 +243,6 @@ footer {
   width: 33.33%;
   text-align: center;
   height: 3em;
-
 }
 
 .footerrow:after {
