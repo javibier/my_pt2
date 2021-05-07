@@ -239,10 +239,10 @@ video {
 }
 
 .mainrowabout {
-  height: 22em;
-  line-height: 3em;
+  height: 10em;
+  line-height: 2em;
   text-align: center;
-  margin: 3em 0 3em 0;
+  
 }
 
 .mainrowabout:after {
@@ -251,7 +251,7 @@ video {
   clear: both;
 }
 
-.mainrowabout h1, h2, h3, p {
+.mainrowabout h1, h2, h3, h4, p {
   margin: 0 0 0 0;
 }
 
