@@ -120,18 +120,16 @@ header, footer {
 }
 
 .welcome {
-  text-align: center;
-  
+  text-align: center; 
 }
-
 
 .welcomemain1, .welcomemain2, .welcomemain3 {
   float: left;
   width: 33.33%;
   text-align: center;
   font-size: 2em;
-  height: 200px;
-  line-height: 200px;
+  height: 5em;
+  line-height: 5em;
 }
 
 .row2:after {
@@ -227,6 +225,8 @@ footer {
 
 .footerrow {
   background-color: #0080ff;
+  height: 3em;
+  line-height: 3em;
 }
 
 #copyright, #social, #javibier {
@@ -238,6 +238,8 @@ footer {
   float: left;
   width: 33.33%;
   text-align: center;
+  height: 3em;
+
 }
 
 .footerrow:after {
