@@ -142,8 +142,17 @@ header, footer {
 
 
 .welcomemain1 {
-  background-color: lightblue;
+  background-color: #00bfff;
 }
+
+.welcomemain2 {
+  background-color: #0080ff;
+}
+
+.welcomemain3 {
+  background-color: #0040ff;
+}
+
 
 
 .welcome ul{
