@@ -90,6 +90,7 @@ textarea {
    ========================================================================== */
 
 /*-------------Base Header - Footer Styles ----------------------------------*/
+
 header, footer {
 
 }
@@ -111,7 +112,7 @@ a {
 
 #topnav nav {
   float: right;
-  font-size: .60em;
+  font-size: .70em;
 }
 
 #topnav ul {
