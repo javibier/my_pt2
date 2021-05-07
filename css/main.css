@@ -239,10 +239,10 @@ video {
 }
 
 .mainrowabout {
-  height: 10em;
+  height: 12em;
   line-height: 2em;
   text-align: center;
-  
+  margin: 1.5em;
 }
 
 .mainrowabout:after {
