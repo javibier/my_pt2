@@ -163,10 +163,14 @@ header, footer {
   text-align: center;
 }
 
+.row3 {
+  margin: 5em 0 5em 
+}
+
 .ptpic img {
   width: 30%;
   height: 35%;
-  margin: 5em 0 5em 0;
+  0;
 }
 
 
