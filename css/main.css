@@ -221,6 +221,24 @@ video {
   clear: both;
 }
 
+.faqmainrow {
+  height: 10em;
+  line-height: 3em;
+  text-align: center;
+  margin: 3em 0 3em 0;
+}
+
+.faqmainrow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.faqmainrow h2, p {
+  margin: 0 0 0 0;
+
+}
+
 footer {
   box-sizing: border-box;
 }
