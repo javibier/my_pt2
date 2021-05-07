@@ -222,7 +222,7 @@ video {
 }
 
 .faqmainrow {
-  height: 10em;
+  height: 6em;
   line-height: 3em;
   text-align: center;
   margin: 3em 0 3em 0;
@@ -236,7 +236,6 @@ video {
 
 .faqmainrow h2, p {
   margin: 0 0 0 0;
-
 }
 
 footer {
