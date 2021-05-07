@@ -153,14 +153,15 @@ header, footer {
   background-color: #0040ff;
 }
 
-
-
 .welcome ul{
   list-style-type: none;
 }
 
 .ptpic {
   text-align: center;
+  position: relative;
+  left: 0;
+  top: 0;
 }
 
 .row3 {
@@ -173,7 +174,16 @@ header, footer {
   
 }
 
-
+.ptimg4 {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.ptimg5 {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
 
 video {
   width: 100%;
