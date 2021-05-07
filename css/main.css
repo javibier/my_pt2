@@ -225,6 +225,9 @@ footer {
   box-sizing: border-box;
 }
 
+.footerrow {
+  background-color: #0080ff;
+}
 
 #copyright, #social, #javibier {
   padding: 0 0 0 0;
