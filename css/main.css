@@ -200,6 +200,11 @@ video {
   font-size: 4em;
 }
 
+.map {
+  text-align: center;
+  margin: 5em 0 5em 0;
+}
+
 .servicehead {
   text-align: center;
 }
