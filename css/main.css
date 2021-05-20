@@ -137,7 +137,17 @@ a {
 }
 
 .welcomemain1 p {
+  padding-top: 25%;
 }
+
+.welcomemain2 p {
+  padding-top: 25%;
+}
+
+.welcomemain3 p {
+  padding-top: 25%;
+}
+
 
 .row2:after {
   content: "";
