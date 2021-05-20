@@ -132,8 +132,11 @@ a {
   width: 33.33%;
   text-align: center;
   font-size: 2em;
-  height: 5em;
-  line-height: 5em;
+  height: 10em;
+  
+}
+
+.welcomemain1 p {
 }
 
 .row2:after {
