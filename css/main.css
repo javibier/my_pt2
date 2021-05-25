@@ -456,15 +456,15 @@ footer {
   font-size: .5em;
 }
 
-.welcomemain1 {
+.welcomemain1, .welcomemain2 {
   height: auto;
 }
 
-.welcomemain1 p {
+.welcomemain1 p, .welcomemain2 p{
   font-size: 2em;
 }
 
-.welcomemain1 p i{
+.welcomemain1 p i, .welcomemain2 p i{
   font-size: 1.5em;
 }
 
