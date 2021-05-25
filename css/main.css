@@ -486,6 +486,10 @@ footer {
   transform: translate(-50%, -50%);
   font-size: 1.5em;
 }
+
+.welcomemain1 {
+  height: auto;
+}
 }
 
 @media only screen and (min-width: 1300px) {
