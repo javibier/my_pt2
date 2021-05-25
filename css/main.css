@@ -107,7 +107,6 @@ a {
 #topnav img {
   width: 30%;
   height: 35%;
-  margin-left: 7em; 
 }
 
 #topnav nav {
@@ -207,17 +206,17 @@ video {
 .videotext {
   color: white;
   position: absolute;
-  top: 30%;
+  top: 20%;
   left: 40%;
   transform: translate(-50%, -50%);
-  font-size: 2em;
+  font-size: 1.25em;
 }
 
 .videotext2 {
   color: white;
   position: absolute;
-  top: 35%;
-  left: 25%;
+  top: 25%;
+  left: 26%;
   transform: translate(-50%, -50%);
   font-size: .5em;
 }
@@ -410,10 +409,24 @@ footer {
   font-size: 1.5em;
 }
 
-#topnav img {
-  width: 30%; 
-  height: 30%;
+.videotext {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
 }
+
+.videotext2 {
+  color: white;
+  position: absolute;
+  top: 35%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  font-size: .5em;
+}
+
 }
 
 @media only screen and (min-width: 700px) {
@@ -455,6 +468,24 @@ footer {
 #topnav img {
   width: 20%; 
   height: 20%;
+}
+
+.videotext {
+  color: white;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  font-size: 2.5em;
+}
+
+.videotext2 {
+  color: white;
+  position: absolute;
+  top: 35%;
+  left: 34%;
+  transform: translate(-50%, -50%);
+  font-size: 1.5em;
 }
 }
 
