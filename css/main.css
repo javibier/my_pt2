@@ -179,30 +179,20 @@ a {
   text-align: center;
   height: 10em;
   width: 50%;
+  padding: 4em 2em 0 2em;
 }
 
 .row3ptpic {
   float: left;
   text-align: center;
-  height: 10em;
   width: 50%;
 }
 
 .row3ptpic img {
-  width: 30%;
+  width: 70%;
+  height: auto;
 }
 
-.ptimg4 {
-  
-  top: 0;
-  left: 0;
-}
-
-.ptimg5 {
-
-  top: 40%;
-  left: 40%;
-}
 
 .row3:after {
   content: "";
