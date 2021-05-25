@@ -171,7 +171,7 @@ a {
 }
 
 .row3 {
-  margin: 5em 0 5em 0;
+  margin: 10em 0 10em 0;
 }
 
 .row3stmnt {
@@ -193,15 +193,21 @@ a {
 }
 
 .ptimg4 {
-  position: relative;
+  
   top: 0;
   left: 0;
 }
 
 .ptimg5 {
-  position: absolute;
+
   top: 40%;
   left: 40%;
+}
+
+.row3:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 video {
