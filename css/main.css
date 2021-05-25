@@ -505,15 +505,19 @@ footer {
   top: 35%;
   left: 34%;
   transform: translate(-50%, -50%);
-  font-size: 1.5em;
+  font-size: 3em;
 }
 
 .welcomemain1, .welcomemain2, .welcomemain3 {
   height: auto;
 }
 
-.welcomemain1 p, .welcomemain2 p, .welcomemain3 p {
-  font-size: 4em;
+.welcomemain1 p, .welcomemain2 p, .welcomemain3 p{
+  padding-top: 2em;
+}
+
+.welcomemain1 h3, .welcomemain2 h3, .welcomemain3 h3 {
+  font-size: 2.5em;
 }
 
 .welcomemain1 p i, .welcomemain2 p i, .welcomemain3 p i{
