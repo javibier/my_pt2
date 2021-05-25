@@ -135,6 +135,10 @@ a {
   color: white;
 }
 
+.welcomemain1 h3, .welcomemain2 h3, .welcomemain3 h3{
+  font-size: 1.25em;
+}
+
 .welcomemain1 p {
   padding-top: 25%;
 }
@@ -456,16 +460,20 @@ footer {
   font-size: .5em;
 }
 
-.welcomemain1, .welcomemain2 {
+.welcomemain1, .welcomemain2, .welcomemain3 {
   height: auto;
 }
 
-.welcomemain1 p, .welcomemain2 p{
+.welcomemain1 p, .welcomemain2 p, .welcomemain3 p{
   font-size: 2em;
 }
 
-.welcomemain1 p i, .welcomemain2 p i{
+.welcomemain1 p i, .welcomemain2 p i, .welcomemain3 p i{
   font-size: 1.5em;
+}
+
+.welcomemain1 h3, .welcomemain2 h3, .welcomemain3 h3{
+  margin-bottom: 2em;
 }
 
 
