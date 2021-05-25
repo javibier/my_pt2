@@ -456,9 +456,22 @@ footer {
   font-size: .5em;
 }
 
+.welcomemain1 {
+  height: auto;
 }
 
-@media only screen and (min-width: 1000px) {
+.welcomemain1 p {
+  font-size: 2em;
+}
+
+.welcomemain1 p i{
+  font-size: 1.5em;
+}
+
+
+}
+
+@media only screen and (min-width: 900px) {
 
 #topnav {
   font-size: 2em;
@@ -490,6 +503,15 @@ footer {
 .welcomemain1 {
   height: auto;
 }
+
+.welcomemain1 p {
+  font-size: 4em;
+}
+
+.welcomemain1 p i{
+  font-size: 2em;
+}
+
 }
 
 @media only screen and (min-width: 1300px) {
