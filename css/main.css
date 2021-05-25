@@ -207,19 +207,19 @@ video {
 .videotext {
   color: white;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 30%;
+  left: 40%;
   transform: translate(-50%, -50%);
-  font-size: 4em;
+  font-size: 2em;
 }
 
 .videotext2 {
   color: white;
   position: absolute;
-  top: 60%;
-  left: 50%;
+  top: 35%;
+  left: 25%;
   transform: translate(-50%, -50%);
-  font-size: 2em;
+  font-size: .5em;
 }
 
 .map {
@@ -425,6 +425,25 @@ footer {
   width: 22%; 
   height: 22%;
 }
+
+.videotext {
+  color: white;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
+}
+
+.videotext2 {
+  color: white;
+  position: absolute;
+  top: 35%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  font-size: .5em;
+}
+
 }
 
 @media only screen and (min-width: 1000px) {
