@@ -532,6 +532,19 @@ footer {
   font-size: 2em;
 }
 
+.row3stmnt h2 {
+  font-size: 3em;
+}
+
+.row3stmnt p {
+  font-size: 1.5em;
+}
+
+.row3ptpic img {
+  margin: 2em 0 0 0;
+  width: 40%;
+  height: 40%;
+}
 
 
 }
