@@ -173,27 +173,27 @@ a {
 }
 
 .row3 {
-  margin: 5em 0 10em 0;
+  margin: 3em 0 5em 0;
 }
 
 .row3stmnt {
   float: left;
   text-align: center;
-  height: 10em;
-  width: 50%;
-  margin: 2em 0 0 0 ;
+  height: auto;
+  width: 100%;
+  margin: 1em 0 2em 0 ;
   padding: 0 2em 0 2em;
-  font-size: .5em;
+  font-size: .75em;
 }
 
 .row3stmnt h3 {
-  font-size: 1em;  
+  font-size: 1.5em;  
 }
 
 .row3ptpic {
   float: left;
   text-align: center;
-  width: 50%;
+  width: 100%;
 }
 
 .row3ptpic img {
