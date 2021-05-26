@@ -556,6 +556,7 @@ footer {
 
 #topnav img {
   width: 12%;
+  margin: 0 0 0 5em;
 }
 
 .videotext {
@@ -586,7 +587,7 @@ footer {
   height: 10em;
   width: 50%;
   margin: 3em 0 0 0 ;
-  padding: 0 2em 0 2em;
+  padding: 4em 4em 0 4em;
 }
 
 .row3stmnt h2 {
