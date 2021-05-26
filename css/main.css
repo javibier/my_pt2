@@ -446,6 +446,15 @@ footer {
   font-size: .5em;
 }
 
+.copyright p {
+  font-size: 1em;
+}
+
+.copyright img {
+  height: 50%;
+  width: 10%;
+}
+
 }
 
 @media only screen and (min-width: 700px) {
@@ -506,6 +515,16 @@ footer {
   width: 40%;
   height: 40%;
 }
+
+.copyright p {
+  font-size: 1em;
+}
+
+.copyright img {
+  height: 50%;
+  width: 10%;
+}
+
 
 
 
@@ -568,6 +587,15 @@ footer {
   margin: 2em 0 0 0;
   width: 40%;
   height: 40%;
+}
+
+.copyright p {
+  font-size: 1.25em;
+}
+
+.copyright img {
+  height: 50%;
+  width: 7%;
 }
 
 
@@ -651,6 +679,12 @@ footer {
   display: table;
   clear: both;
 }
+
+.copyright img {
+  height: 50%;
+  width: 5%;
+}
+
 
 }
 
