@@ -102,11 +102,13 @@ a {
 #topnav {
   width: 100%;
   top: 0;
+  height: auto;
 }
 
 #topnav img {
   width: 30%;
   height: 35%;
+  margin: .25em 0 0 2em;
 }
 
 #topnav nav {
@@ -115,7 +117,7 @@ a {
 }
 
 #topnav ul {
-  padding: 0em;
+  margin: .25em 1em 0 0;
   list-style-type: none;
 }
 
