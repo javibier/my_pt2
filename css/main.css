@@ -440,7 +440,7 @@ footer {
 }
 
 @media only screen and (min-width: 700px) {
-  
+
 #topnav {
   font-size: 1.5em;
 }
@@ -589,6 +589,13 @@ footer {
   padding: 0 2em 0 2em;
 }
 
+.row3stmnt h2 {
+  font-size: 3em;
+}
+
+.row3stmnt p {
+  font-size: 1.5em;
+}
 
 .row3ptpic {
   float: left;
