@@ -173,7 +173,7 @@ a {
 }
 
 .row3 {
-  margin: 10em 0 10em 0;
+  margin: 5em 0 10em 0;
 }
 
 .row3stmnt {
@@ -181,7 +181,13 @@ a {
   text-align: center;
   height: 10em;
   width: 50%;
-  padding: 5em 5em 0 5em;
+  margin: 2em 0 0 0 ;
+  padding: 0 2em 0 2em;
+  font-size: .5em;
+}
+
+.row3stmnt h3 {
+  font-size: 1em;  
 }
 
 .row3ptpic {
