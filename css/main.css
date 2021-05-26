@@ -202,7 +202,6 @@ a {
   height: 50%;
 }
 
-
 .row3:after {
   content: "";
   display: table;
@@ -300,6 +299,15 @@ footer {
   background-color: #006699;
   height: 3em;
   line-height: 3em;
+}
+
+.copyright p {
+  font-size: .55em;
+}
+
+.copyright img {
+  height: 30%;
+  width: 15%;
 }
 
 #copyright, #social, #javibier {
