@@ -197,8 +197,9 @@ a {
 }
 
 .row3ptpic img {
-  width: 70%;
-  height: auto;
+  margin: 3em 0 0 0;
+  width: 50%;
+  height: 50%;
 }
 
 
@@ -456,16 +457,16 @@ footer {
   top: 30%;
   left: 40%;
   transform: translate(-50%, -50%);
-  font-size: 2em;
+  font-size: 2.5em;
 }
 
 .videotext2 {
   color: white;
   position: absolute;
   top: 35%;
-  left: 25%;
+  left: 32%;
   transform: translate(-50%, -50%);
-  font-size: .5em;
+  font-size: 1.5em;
 }
 
 .welcomemain1, .welcomemain2, .welcomemain3 {
@@ -483,6 +484,21 @@ footer {
 .welcomemain1 h3, .welcomemain2 h3, .welcomemain3 h3{
   margin-bottom: 2em;
 }
+
+.row3stmnt h2 {
+  font-size: 2.5em;
+}
+
+.row3stmnt p {
+  font-size: 1.5em;
+}
+
+.row3ptpic img {
+  margin: 2em 0 0 0;
+  width: 40%;
+  height: 40%;
+}
+
 
 
 }
