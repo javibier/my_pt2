@@ -226,9 +226,9 @@ video {
   color: white;
   position: absolute;
   top: 25%;
-  left: 26%;
+  left: 32%;
   transform: translate(-50%, -50%);
-  font-size: .5em;
+  font-size: .75em;
 }
 
 .map {
