@@ -122,7 +122,9 @@ a {
 }
 
 .welcome {
-  text-align: center; 
+  text-align: center;
+  height: 15em;
+  font-size: 2em;
 }
 
 .welcomemain1, .welcomemain2, .welcomemain3 {
