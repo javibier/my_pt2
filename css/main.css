@@ -123,8 +123,9 @@ a {
 
 .welcome {
   text-align: center;
-  height: 15em;
-  font-size: 2em;
+  height: 8em;
+  font-size: 2.5em;
+  margin: 4em 4em 0 4em;
 }
 
 .welcomemain1, .welcomemain2, .welcomemain3 {
