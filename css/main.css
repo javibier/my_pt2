@@ -121,11 +121,34 @@ a {
   list-style-type: none;
 }
 
+video {
+  width: 100%;
+  height: auto;
+}
+
+.videotext {
+  color: white;
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  font-size: 1.25em;
+}
+
+.videotext2 {
+  color: white;
+  position: absolute;
+  top: 25%;
+  left: 39%;
+  transform: translate(-50%, -50%);
+  font-size: .50em;
+}
+
 .welcome {
   text-align: center;
   height: 8em;
-  font-size: 2.5em;
-  margin: 4em 4em 0 4em;
+  font-size: .75em;
+  margin: 1em 4em 0 4em;
 }
 
 .welcomemain1, .welcomemain2, .welcomemain3 {
@@ -211,28 +234,7 @@ a {
   clear: both;
 }
 
-video {
-  width: 100%;
-  height: auto;
-}
 
-.videotext {
-  color: white;
-  position: absolute;
-  top: 20%;
-  left: 40%;
-  transform: translate(-50%, -50%);
-  font-size: 1.25em;
-}
-
-.videotext2 {
-  color: white;
-  position: absolute;
-  top: 25%;
-  left: 32%;
-  transform: translate(-50%, -50%);
-  font-size: .75em;
-}
 
 .map {
   text-align: center;
@@ -643,6 +645,13 @@ footer {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 2em;
+}
+
+.welcome {
+  text-align: center;
+  height: 8em;
+  font-size: 2.5em;
+  margin: 4em 4em 0 4em;
 }
 
 .row3 {
