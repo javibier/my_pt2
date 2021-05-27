@@ -487,8 +487,14 @@ footer {
   font-size: .75em;
 }
 
-.copyright p {
+.welcome {
+  height: 8em;
   font-size: 1em;
+  margin: 2em 4em 0 4em;
+}
+
+.copyright p {
+  font-size: .80em;
 }
 
 .copyright img {
