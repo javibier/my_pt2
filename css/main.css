@@ -484,9 +484,15 @@ footer {
   color: white;
   position: absolute;
   top: 35%;
-  left: 32%;
+  left: 39%;
   transform: translate(-50%, -50%);
-  font-size: 1.5em;
+  font-size: 1em;
+}
+
+.welcome {
+  height: 8em;
+  font-size: 1.25em;
+  margin: 2em 4em 0 4em;
 }
 
 .welcomemain1, .welcomemain2, .welcomemain3 {
