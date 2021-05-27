@@ -425,28 +425,66 @@ footer {
   /* Style adjustments for viewports that meet the condition */
 }
 
+#topnav img {
+  width: 40%; 
+  height: 40%;
+}
+
+.videotext {
+  color: white;
+  position: absolute;
+  top: 15%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  font-size: 1em;
+}
+
+.videotext2 {
+  color: white;
+  position: absolute;
+  top: 20%;
+  left: 41%;
+  transform: translate(-50%, -50%);
+  font-size: .50em;
+}
+
+.welcome {
+  height: 8em;
+  font-size: .50em;
+  margin: 2em 4em 0 4em;
+}
+
+.copyright p {
+  font-size: .40em;
+}
+
 @media only screen and (min-width: 500px) {
 
 #topnav {
   font-size: 1.5em;
 }
 
+#topnav img {
+  width: 32%; 
+  height: 32%;
+}
+
 .videotext {
   color: white;
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 40%;
   transform: translate(-50%, -50%);
-  font-size: 2em;
+  font-size: 1.75em;
 }
 
 .videotext2 {
   color: white;
   position: absolute;
   top: 35%;
-  left: 25%;
+  left: 41%;
   transform: translate(-50%, -50%);
-  font-size: .5em;
+  font-size: .75em;
 }
 
 .copyright p {
@@ -703,7 +741,6 @@ footer {
   height: 50%;
   width: 5%;
 }
-
 
 }
 
